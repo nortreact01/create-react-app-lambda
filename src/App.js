@@ -40,6 +40,9 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
+          <p>
+            Kes hommikuti külas käib, see asjatult ei longi
+          </p>
           <LambdaDemo />
         </header>
       </div>
